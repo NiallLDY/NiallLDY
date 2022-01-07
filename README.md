@@ -5,10 +5,10 @@
 
 <!-- Here are some ideas to get you started: -->
 
-- 🔭 I’m currently focusing on iOS & Swift.
-- 🌱 I’m currently learning SwiftUI.
+- 🔭 I’m currently focusing on Graph Neural Network and Federated Learning.
+- 🌱 I’m currently learning 🥳.
 - 📫 How to reach me: louistayd@gmail.com
-- 🥳 My personal blog: https://codeswift.top
+- 🖥 My personal blog: https://codeswift.top
 - 😄 Pronouns: He.
 <!-- - ⚡ Fun fact: ... -->
 <!-- - 👯 I’m looking to collaborate on ... -->
