@@ -7,7 +7,7 @@
 - 🔭 I’m currently focusing on Graph Neural Network and Federated Learning.
 - 🌱 I’m currently learning 🥳.
 - 📫 How to reach me: dylv@iswiftai.com
-- 🖥 My personal blog: https://codeswift.top
+- 🖥 My personal blog: https://blog.iswiftai.com
 - 😄 Pronouns: He.
 <!-- - ⚡ Fun fact: ... -->
 <!-- - 👯 I’m looking to collaborate on ... -->
