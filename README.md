@@ -4,7 +4,6 @@
 
 <!-- Here are some ideas to get you started: -->
 
-- 🔭 I’m currently focusing on Graph Neural Network and Federated Learning.
 - 🌱 I’m currently learning 🥳.
 - 📫 How to reach me: i@lvdingyang.com
 - 🖥 My personal homepage: https://lvdingyang.com
