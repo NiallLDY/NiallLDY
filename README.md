@@ -4,9 +4,7 @@
 
 <!-- Here are some ideas to get you started: -->
 
-- 🌱 I’m currently learning 🥳.
-- 📫 How to reach me: i@lvdingyang.com
-- 🖥 My personal homepage: https://lvdingyang.com
+- 📫 How to reach me: dylv@iswiftai.com
 - 😄 Pronouns: He.
 <!-- - ⚡ Fun fact: ... -->
 <!-- - 👯 I’m looking to collaborate on ... -->
